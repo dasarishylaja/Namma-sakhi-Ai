@@ -1,0 +1,6 @@
+{
+  "name": "Namma Sakhi – AI Government Scheme Assistant",
+  "description": "A voice-first Tamil and English AI assistant helping rural women in India discover and understand official government welfare schemes via myScheme.gov.in.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
